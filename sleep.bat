@@ -1,1 +1,1 @@
-timeout /t 30 /nobreak
+timeout 30 > NUL
